@@ -215,7 +215,7 @@ namespace BlocklistMaker
                 return $"0.0.0.0 {row}";
             });
 
-            File.WriteAllText(AppDomain.CurrentDomain.BaseDirectory + @"\blocklist.txt",
+            File.WriteAllText(AppDomain.CurrentDomain.BaseDirectory + @"..\..\..\blocklist.txt",
                   string.Join("\r\n", asHostFile));
         }
 
