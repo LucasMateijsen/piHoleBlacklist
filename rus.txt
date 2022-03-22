@@ -1,193 +1,193 @@
-1tv.ru
-5-tv.ru
-alfaradio.by
-baltnews.lt
-bankdabrabyt.by
-belapb.by
-belarus.by
-belarus24.by
-belarusbank.by
-belinvestbank.by
-belmarket.by
-belnovosti.by
-belta.by
-bestchange.ru
-brrb.by
-ca.gisca.ru
-ca.kamgov.ru
-ca.ntssoft.ru
-cbr.ru
-cfmc.ru
-cloud.rkn.gov.ru
-ctv.by
-customs.gov.ru
-data.gov.ru
-dreamkas.ru
-duma.gov.ru
-eadaily.com
-economy.gov.ru
-elkursk.ru
-en.kremlin.ru
-epnow.ru
-er.ru
-eurosib.ru
-evraz.com
-francais.rt.com
-fsb.ru
-gazeta.ru
-gazprom.ru
-gazprombank.ru
-gosuslugi.ru
-gov.ru
-government.ru
-grodnonews.by
-iecp.ru
-imctax.parus-s.ru
-interfax.ru
-iz.ru
-izhtender.ru
-karaulovlife.ru
-kk.bank
-kp.ru
-kraskript.com
-kremlin.ru
-lenta.ru
-life.ru
-lt.rubaltic.ru
-lt.sputniknews.ru
-lukoil.r
-lukoil.ru
-magnit.ru
-mail.rkn.gov.ru
-mascom-it.ru
-mcspro.ru
-metalloinvest.com
-mid-dnr.su
-mid.ru
-mil.by
-mil.ru
-mk.ru
-moex.com
-more.tv
-mos.ru
-mvd.gov.ru
-nalog.gov.ru
-nangs.org
-nbrb.by
-news-front.info
-nlmk.com
-nornickel.com
-novorosinform.org
-omk.ru
-online.sberbank.ru
-ont.by
-pfr.gov.ru
-pnp.ru
-politnavigator.net
-polymetalinternational.com
-president.gov.by
-proverki.gov.ru
-radiobelarus.by
-radiomir.by
-rambler.ru
-rbc.ru
-regnum.ru
-ren.tv
-rg.ru
-ria.ru
-rk72.ru
-rkn.gov.ru
-rmk-group.ru
-rosbank.ru
-rsbis.ru
-rt.com
-rtr-planeta.com
-rubaltic.ru
-rusnext.ru
-russian.rt.com
-rzd.ru
-rzdlog.ru
-sberbank.ru
-scrf.gov.ru
-severstal.com
-shop-rt.com
-sibur.ru
-slonves.by
-smotrim.ru
-sputnik-abkhazia.ru
-sputnik.by
-sputniknews.com
-sputniknews.lt
-sputniknews.ru
-squaretrade.ru
-stroi.gov.ru
-structure.mil.ru
-surgutneftegas.ru
-svr.gov.ru
-tass.ru
-tatneft.ru
-tmk-group.ru
-torgi.gov.ru
-tvzvezda.ru
-uc-osnovanie.ru
-ucestp.ru
-udcs.ru
-ugmk.ua
-uralkali.com
-vesti.ru
-vgtrk.ru
-vsoloviev.ru
-vtb.ru
-www.1tv.ru
-www.24ecp.ru
-www.astralnalog.ru
-www.belinfonalog.ru
-www.center-inform.ru
-www.cit-ufa.ru
-www.crypset.ru
-www.e-portal.ru
-www.eurosib.ru
-www.evraz.com
-www.gazprom.ru
-www.gazprombank.ru
-www.gosuslugi.ru
-www.icentr.ru
-www.icvibor.ru
-www.infotrust.ru
-www.interfax.ru
-www.kartoteka.ru
-www.kt-69.ru
-www.metalloinvest.com
-www.mos.ru
-www.nalog.gov.ru
-www.nornickel.com
-www.nucrf.ru
-www.nwudc.ru
-www.otchet-online.ru
-www.polymetalinternational.com
-www.rbc.ru
-www.rcarus.ru
-www.roseltorg.ru
-www.rt.com
-www.rubaltic.ru
-www.rzd.ru
-www.sb.by
-www.severstal.com
-www.sibur.ru
-www.stv-it.ru
-www.surgutneftegas.ru
-www.tatneft.ru
-www.tmk-group.ru
-www.tvr.by
-www.ucpir.ru
-www.uralkali.com
-www.vesti.ru
-www.vtb.ru
-www.y-center.ru
-ya.ru
-yandex.by
-yandex.ru
-zakupki.gov.ru
-zarya.by
-znak.com
-zvezda.ru
+0.0.0.0 1tv.ru
+0.0.0.0 5-tv.ru
+0.0.0.0 alfaradio.by
+0.0.0.0 baltnews.lt
+0.0.0.0 bankdabrabyt.by
+0.0.0.0 belapb.by
+0.0.0.0 belarus.by
+0.0.0.0 belarus24.by
+0.0.0.0 belarusbank.by
+0.0.0.0 belinvestbank.by
+0.0.0.0 belmarket.by
+0.0.0.0 belnovosti.by
+0.0.0.0 belta.by
+0.0.0.0 bestchange.ru
+0.0.0.0 brrb.by
+0.0.0.0 ca.gisca.ru
+0.0.0.0 ca.kamgov.ru
+0.0.0.0 ca.ntssoft.ru
+0.0.0.0 cbr.ru
+0.0.0.0 cfmc.ru
+0.0.0.0 cloud.rkn.gov.ru
+0.0.0.0 ctv.by
+0.0.0.0 customs.gov.ru
+0.0.0.0 data.gov.ru
+0.0.0.0 dreamkas.ru
+0.0.0.0 duma.gov.ru
+0.0.0.0 eadaily.com
+0.0.0.0 economy.gov.ru
+0.0.0.0 elkursk.ru
+0.0.0.0 en.kremlin.ru
+0.0.0.0 epnow.ru
+0.0.0.0 er.ru
+0.0.0.0 eurosib.ru
+0.0.0.0 evraz.com
+0.0.0.0 francais.rt.com
+0.0.0.0 fsb.ru
+0.0.0.0 gazeta.ru
+0.0.0.0 gazprom.ru
+0.0.0.0 gazprombank.ru
+0.0.0.0 gosuslugi.ru
+0.0.0.0 gov.ru
+0.0.0.0 government.ru
+0.0.0.0 grodnonews.by
+0.0.0.0 iecp.ru
+0.0.0.0 imctax.parus-s.ru
+0.0.0.0 interfax.ru
+0.0.0.0 iz.ru
+0.0.0.0 izhtender.ru
+0.0.0.0 karaulovlife.ru
+0.0.0.0 kk.bank
+0.0.0.0 kp.ru
+0.0.0.0 kraskript.com
+0.0.0.0 kremlin.ru
+0.0.0.0 lenta.ru
+0.0.0.0 life.ru
+0.0.0.0 lt.rubaltic.ru
+0.0.0.0 lt.sputniknews.ru
+0.0.0.0 lukoil.r
+0.0.0.0 lukoil.ru
+0.0.0.0 magnit.ru
+0.0.0.0 mail.rkn.gov.ru
+0.0.0.0 mascom-it.ru
+0.0.0.0 mcspro.ru
+0.0.0.0 metalloinvest.com
+0.0.0.0 mid-dnr.su
+0.0.0.0 mid.ru
+0.0.0.0 mil.by
+0.0.0.0 mil.ru
+0.0.0.0 mk.ru
+0.0.0.0 moex.com
+0.0.0.0 more.tv
+0.0.0.0 mos.ru
+0.0.0.0 mvd.gov.ru
+0.0.0.0 nalog.gov.ru
+0.0.0.0 nangs.org
+0.0.0.0 nbrb.by
+0.0.0.0 news-front.info
+0.0.0.0 nlmk.com
+0.0.0.0 nornickel.com
+0.0.0.0 novorosinform.org
+0.0.0.0 omk.ru
+0.0.0.0 online.sberbank.ru
+0.0.0.0 ont.by
+0.0.0.0 pfr.gov.ru
+0.0.0.0 pnp.ru
+0.0.0.0 politnavigator.net
+0.0.0.0 polymetalinternational.com
+0.0.0.0 president.gov.by
+0.0.0.0 proverki.gov.ru
+0.0.0.0 radiobelarus.by
+0.0.0.0 radiomir.by
+0.0.0.0 rambler.ru
+0.0.0.0 rbc.ru
+0.0.0.0 regnum.ru
+0.0.0.0 ren.tv
+0.0.0.0 rg.ru
+0.0.0.0 ria.ru
+0.0.0.0 rk72.ru
+0.0.0.0 rkn.gov.ru
+0.0.0.0 rmk-group.ru
+0.0.0.0 rosbank.ru
+0.0.0.0 rsbis.ru
+0.0.0.0 rt.com
+0.0.0.0 rtr-planeta.com
+0.0.0.0 rubaltic.ru
+0.0.0.0 rusnext.ru
+0.0.0.0 russian.rt.com
+0.0.0.0 rzd.ru
+0.0.0.0 rzdlog.ru
+0.0.0.0 sberbank.ru
+0.0.0.0 scrf.gov.ru
+0.0.0.0 severstal.com
+0.0.0.0 shop-rt.com
+0.0.0.0 sibur.ru
+0.0.0.0 slonves.by
+0.0.0.0 smotrim.ru
+0.0.0.0 sputnik-abkhazia.ru
+0.0.0.0 sputnik.by
+0.0.0.0 sputniknews.com
+0.0.0.0 sputniknews.lt
+0.0.0.0 sputniknews.ru
+0.0.0.0 squaretrade.ru
+0.0.0.0 stroi.gov.ru
+0.0.0.0 structure.mil.ru
+0.0.0.0 surgutneftegas.ru
+0.0.0.0 svr.gov.ru
+0.0.0.0 tass.ru
+0.0.0.0 tatneft.ru
+0.0.0.0 tmk-group.ru
+0.0.0.0 torgi.gov.ru
+0.0.0.0 tvzvezda.ru
+0.0.0.0 uc-osnovanie.ru
+0.0.0.0 ucestp.ru
+0.0.0.0 udcs.ru
+0.0.0.0 ugmk.ua
+0.0.0.0 uralkali.com
+0.0.0.0 vesti.ru
+0.0.0.0 vgtrk.ru
+0.0.0.0 vsoloviev.ru
+0.0.0.0 vtb.ru
+0.0.0.0 www.1tv.ru
+0.0.0.0 www.24ecp.ru
+0.0.0.0 www.astralnalog.ru
+0.0.0.0 www.belinfonalog.ru
+0.0.0.0 www.center-inform.ru
+0.0.0.0 www.cit-ufa.ru
+0.0.0.0 www.crypset.ru
+0.0.0.0 www.e-portal.ru
+0.0.0.0 www.eurosib.ru
+0.0.0.0 www.evraz.com
+0.0.0.0 www.gazprom.ru
+0.0.0.0 www.gazprombank.ru
+0.0.0.0 www.gosuslugi.ru
+0.0.0.0 www.icentr.ru
+0.0.0.0 www.icvibor.ru
+0.0.0.0 www.infotrust.ru
+0.0.0.0 www.interfax.ru
+0.0.0.0 www.kartoteka.ru
+0.0.0.0 www.kt-69.ru
+0.0.0.0 www.metalloinvest.com
+0.0.0.0 www.mos.ru
+0.0.0.0 www.nalog.gov.ru
+0.0.0.0 www.nornickel.com
+0.0.0.0 www.nucrf.ru
+0.0.0.0 www.nwudc.ru
+0.0.0.0 www.otchet-online.ru
+0.0.0.0 www.polymetalinternational.com
+0.0.0.0 www.rbc.ru
+0.0.0.0 www.rcarus.ru
+0.0.0.0 www.roseltorg.ru
+0.0.0.0 www.rt.com
+0.0.0.0 www.rubaltic.ru
+0.0.0.0 www.rzd.ru
+0.0.0.0 www.sb.by
+0.0.0.0 www.severstal.com
+0.0.0.0 www.sibur.ru
+0.0.0.0 www.stv-it.ru
+0.0.0.0 www.surgutneftegas.ru
+0.0.0.0 www.tatneft.ru
+0.0.0.0 www.tmk-group.ru
+0.0.0.0 www.tvr.by
+0.0.0.0 www.ucpir.ru
+0.0.0.0 www.uralkali.com
+0.0.0.0 www.vesti.ru
+0.0.0.0 www.vtb.ru
+0.0.0.0 www.y-center.ru
+0.0.0.0 ya.ru
+0.0.0.0 yandex.by
+0.0.0.0 yandex.ru
+0.0.0.0 zakupki.gov.ru
+0.0.0.0 zarya.by
+0.0.0.0 znak.com
+0.0.0.0 zvezda.ru
