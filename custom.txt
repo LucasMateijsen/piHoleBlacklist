@@ -1,1 +1,15 @@
-
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 ring.msedge.net
+0.0.0.0 fp.measure.office.com
+0.0.0.0 independer.nl
+0.0.0.0 intermediair.nl
+0.0.0.0 nationalevacaturebank.nl
+0.0.0.0 datadoghq-browser-agent.com
+0.0.0.0 footprintdns.com
+0.0.0.0 akstat.io
+0.0.0.0 ring-fallback.msedge.net
+0.0.0.0 akn.analytics.autodesk.com
+0.0.0.0 salesforceliveagent.com
+0.0.0.0 sanomaservices.nl
+0.0.0.0 graph.facebook.com
+0.0.0.0 toblog.tobsnssdk.com
